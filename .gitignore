@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.next/
+
+# Julia
+backend/Manifest.toml
+backend/Project.toml
+
+# Logs e temporários
+*.loggit
+*.tmp
+*.bak
+
+# Docker
+*.pid
